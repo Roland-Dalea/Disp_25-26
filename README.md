@@ -26,7 +26,7 @@ Team Members:
 - `manual tests.xlsx`  
   Contains the manual testing records and outcomes.
 
-- `Group5 DISP.pdf`  
+- `Group5 DISP Report.pdf`  
   Provides the full testing report, including testing approaches, tools used, and evaluation results.
 
 ## Full Project Repositories
