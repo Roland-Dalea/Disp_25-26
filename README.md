@@ -1,29 +1,52 @@
 # Disp_25-26
 
-This is the repository for Disp 
-Team members: Roland Dalea, James Hayes, Si Thu Soe, Wageesha Naiduwadura, and Sufyaan Baz.
+This repository contains the deliverables and supporting documentation for the DISP project completed by Team 5.
 
-see work plan for the methodology and expected milestones, 
+Team Members:
+- Roland Dalea
+- James Hayes
+- Si Thu Soe
+- Wageesha Naiduwadura
+- Sufyaan Baz
 
-see log book for the log of who has participated in what work
+## Repository Contents
 
-see i star diagrams for the SD and SR models
+- `Work Plan`  
+  Contains the project methodology, timeline, and expected milestones.
 
-see Startegic model diagram for the bpmn of the strategic model.
+- `Log Book`  
+  Records individual contributions and participation throughout the project.
 
-see manual tests.xlsx for the manual tests
+- `i* Diagrams`  
+  Includes the Strategic Dependency (SD) and Strategic Rationale (SR) models.
 
-for a report of testing done and tools used see the Group5 DISP pdf
+- `Strategic Model Diagram`  
+  Contains the BPMN 2.0 strategic business process model.
 
-for the full model you will need to look accross 3 repo's
+- `manual tests.xlsx`  
+  Contains the manual testing records and outcomes.
 
-https://github.com/jhayes-s3/Probuild-API/
+- `Group5 DISP.pdf`  
+  Provides the full testing report, including testing approaches, tools used, and evaluation results.
 
-https://github.com/jhayes-s3/Probuild-worker
+## Full Project Repositories
 
-https://github.com/jhayes-s3/Probuild-Diagrams/tree/main/disp%20diagrams
+The complete system is distributed across three repositories:
 
-To see how to run this model please see https://github.com/jhayes-s3/Probuild-API/blob/main/README.md
+- API Repository  
+  [Probuild-API](https://github.com/jhayes-s3/Probuild-API/?utm_source=chatgpt.com)
+
+- Worker Repository  
+  [Probuild-worker](https://github.com/jhayes-s3/Probuild-worker?utm_source=chatgpt.com)
+
+- BPMN and Diagram Repository  
+  [Probuild-Diagrams](https://github.com/jhayes-s3/Probuild-Diagrams/tree/main/disp%20diagrams?utm_source=chatgpt.com)
+
+## Running the System
+
+Instructions for setting up and running the project can be found in the API repository README:
+
+[Probuild-API README](https://github.com/jhayes-s3/Probuild-API/blob/main/README.md?utm_source=chatgpt.com)
 
 Repo structures 
 ```
