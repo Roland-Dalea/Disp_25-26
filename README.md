@@ -4,9 +4,13 @@ This is the repository for Disp
 Team members: Roland Dalea, James Hayes, Si Thu Soe, Wageesha Naiduwadura, and Sufyaan Baz.
 
 see work plan for the methodology and expected milestones, 
+
 see log book for the log of who has participated in what work
+
 see i star diagrams for the SD and SR models
+
 see Startegic model diagram for the bpmn of the strategic model.
+
 see manual tests.xlsx for the manual tests
 
 for a report of testing done and tools used see https://docs.google.com/document/d/1bByYy95ChWFX74I0uuu4gbr2iXtvAUxxchoqZfYsxEk/edit?usp=sharing
