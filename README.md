@@ -13,7 +13,7 @@ see Startegic model diagram for the bpmn of the strategic model.
 
 see manual tests.xlsx for the manual tests
 
-for a report of testing done and tools used see https://docs.google.com/document/d/1bByYy95ChWFX74I0uuu4gbr2iXtvAUxxchoqZfYsxEk/edit?usp=sharing
+for a report of testing done and tools used see the Group5 DISP pdf
 
 for the full model you will need to look accross 3 repo's
 
